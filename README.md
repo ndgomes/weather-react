@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,4 +10,3 @@ Currently, two official plugins are available:
 
 
 ![image](https://github.com/ndgomes/weather-react/assets/19439016/8b1cccd9-5c50-4b60-be68-847141c8173a)
->>>>>>> refs/remotes/origin/main
